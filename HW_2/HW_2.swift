@@ -1,4 +1,6 @@
 //: Playground - noun: a place where people can play
+// HW_2
+// Abdullah Uslu
 
 import UIKit
 
